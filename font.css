@@ -1,0 +1,24 @@
+@font-face{
+	font-family: "aa";
+	src:url('fonts/IBM_Plex_Serif/IBMPlexSerif-ExtraLight.ttf');
+}
+
+@font-face{
+	font-family: "bb";
+	src:url('fonts/IBM_Plex_Serif/IBMPlexSerif-Regular.ttf');
+}
+
+@font-face{
+	font-family: "cc";
+	src:url('fonts/IBM_Plex_Serif/IBMPlexSerif-Thin.ttf');
+}
+
+@font-face{
+	font-family: "dd";
+	src:url('fonts/IBM_Plex_Serif/IBMPlexSerif-BoldItalic.ttf');
+}
+
+@font-face{
+	font-family: "ee";
+	src:url('fonts/Liu_Jian_Mao_Cao/LiuJianMaoCao-Regular.ttf');
+}
